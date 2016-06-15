@@ -1,6 +1,3 @@
-//E13397 taking the solution of ax^2+bx+c
-
-
 #include <stdio.h>
 
 
